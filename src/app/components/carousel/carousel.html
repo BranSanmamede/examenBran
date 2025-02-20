@@ -1,0 +1,14 @@
+<div class="carousel-container">
+    <h1>Nuestros Directivos</h1>
+    <div class="carousel">
+        <div *ngFor="let persona of personal" class="carousel-individual">
+            <div class="rounded-circle">
+                <img [src]="persona.img" [alt]="persona.nombre">
+            </div>
+            <div>
+                <p>{{persona.nombre}}</p>
+                <p>{{persona.puesto}}</p>
+            </div>
+        </div>
+    </div>
+</div>

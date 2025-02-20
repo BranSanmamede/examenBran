@@ -1,0 +1,47 @@
+.card-header {
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+}
+
+.card-header a {
+    color: darkgreen;
+}
+
+.card-header a:hover {
+    color: darkgreen;
+}
+
+.nav-item:active {
+    background-color: darkgreen;
+}
+
+.nav-item:active a {
+    color: white;
+}
+
+.carousel-container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.carousel {
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.carousel-individual {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.rounded-circle {
+    width: 162px;
+}
