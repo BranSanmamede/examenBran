@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos Gómez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "CEO",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 5
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }, 
+    {
+        "id": 2,
+        "nombre": "Luis Perez", 
+        "img": "../img/",
+        "email": "asfdvd@dfvdfv",
+        "puesto": "Director de operaciones",
+        "password": "sfdgdfgdfb",
+        "puntuacion": 10
+    }
+]
